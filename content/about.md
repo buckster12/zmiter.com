@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2022-05-31T12:14:00+03:00
-draft: true
+aliases = ["about"]
+author = "Zmiter"
 ---
 
 Currently, I live in Minsk, Belarus.
