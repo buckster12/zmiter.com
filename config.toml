@@ -1,0 +1,47 @@
+baseURL = 'https://zmiter.com/'
+languageCode = 'en-us'
+title = 'My personal website'
+theme = "hugo-coder"
+#theme = "ananke"
+
+[params]
+author = "Zmiter Harbatsevich"
+description = "Zmiter's personal website"
+info = ["Software Engineer", "Web Developer", "Web Designer"]
+dateFormat = "January 2, 2006"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/buckster12/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/chudilka/"
+
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/johndoe/"
+
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
+
