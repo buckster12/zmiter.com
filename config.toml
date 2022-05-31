@@ -27,8 +27,7 @@ url = "https://twitter.com/chudilka/"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
+url = "https://www.linkedin.com/in/dmitry-harbatsevich-917551121/"
 
 [[languages.en.menu.main]]
 name = "About"
