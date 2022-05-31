@@ -20,8 +20,7 @@ url = "https://github.com/buckster12/"
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/chudilka/"
-
+url = "https://twitter.com/zmitercom/"
 
 [[params.social]]
 name = "LinkedIn"
